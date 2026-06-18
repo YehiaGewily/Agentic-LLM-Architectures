@@ -1,0 +1,20 @@
+# Core LLM & Agent framework
+langgraph>=0.2.0
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+
+# LLM providers (both served via Nebius AI Studio)
+langchain-nebius>=0.1.0
+
+# Search & retrieval tools
+tavily-python>=0.3.0
+langchain-chroma>=0.1.0
+
+# Notebook environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0

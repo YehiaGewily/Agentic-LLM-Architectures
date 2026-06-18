@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "PowerShell(py *)",
+      "PowerShell(Remove-Item *)",
+      "Bash(rm -f _imp.py)",
+      "Bash(ls _imp*.py)"
+    ]
+  }
+}
