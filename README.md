@@ -1,4 +1,4 @@
-# 🤖 Agentic LLM Architectures
+# Agentic LLM Architectures
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776ab.svg?logo=python&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0.2+-1a1a2e.svg)
@@ -13,7 +13,7 @@ Each notebook is structured as a standalone deep-dive: it explains the *problem*
 
 ---
 
-## 📚 Notebook Index
+## Notebook Index
 
 | # | Notebook | Architecture | Model | Key Concept |
 |---|----------|-------------|-------|-------------|
@@ -32,7 +32,7 @@ Each notebook is structured as a standalone deep-dive: it explains the *problem*
 
 ---
 
-## 🏗️ Architecture at a Glance
+## Architecture at a Glance
 
 ```
 Foundational                    Intermediate                     Advanced
@@ -45,7 +45,7 @@ Self-Critique   Tool Use        Plan-Execute    Tree-of-Thoughts   Hierarchical
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -59,7 +59,7 @@ Self-Critique   Tool Use        Plan-Execute    Tree-of-Thoughts   Hierarchical
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Create a virtual environment
 
@@ -105,7 +105,7 @@ jupyter lab
 
 ---
 
-## 📐 Notebook Format
+## Notebook Format
 
 Every notebook follows a consistent structure so you can jump in anywhere:
 
@@ -118,7 +118,7 @@ Every notebook follows a consistent structure so you can jump in anywhere:
 
 ---
 
-## 🗺️ Learning Path
+## Learning Path
 
 **If you're new to agents:** Start with `01 → 02 → 03` to build intuition for reflection, tools, and the ReAct loop before tackling graphs and orchestration.
 
@@ -128,12 +128,12 @@ Every notebook follows a consistent structure so you can jump in anywhere:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Issues, ideas, and PRs are welcome. If you spot a bug or want to add a notebook on a pattern not covered here, open an issue first so we can discuss the design.
 
 ---
 
-## 📄 License
+## License
 
 MIT © 2025 [Yehia Gewily](https://github.com/YehiaGewily)
